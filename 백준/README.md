@@ -6,6 +6,8 @@
 
 https://www.acmicpc.net/problem/1816
 
+#### 에라토스테네스의 체 (소수 판별)
+
 ```
 for (int i = 2; i * i <= N; i++) {
     if (isPrime[i]) {
@@ -14,7 +16,7 @@ for (int i = 2; i * i <= N; i++) {
         }
     }
 }
-에라토스테네스의 체 (소수 판별)
+
 ```
 
 ### 2755

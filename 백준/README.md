@@ -27,15 +27,24 @@ for (int i = 2; i * i <= N; i++) {
 
 ## Week 2 (~01/26)
 
-|  No. | Problem   | Tag | Status | Link                                 |
-| ---: | :-------- | :-: | :----: | ------------------------------------ |
-| 2839 | 설탕 배달 |     |        | https://www.acmicpc.net/problem/2839 |
-| 2606 | 바이러스  |     |        | https://www.acmicpc.net/problem/2606 |
+|  No. | Problem   |    Tag    | Status | Link                                 |
+| ---: | :-------- | :-------: | :----: | ------------------------------------ |
+| 2839 | 설탕 배달 |   구현    |   ✅   | https://www.acmicpc.net/problem/2839 |
+| 2606 | 바이러스  | DFS / BFS |   ✅   | https://www.acmicpc.net/problem/2606 |
 
 ---
 
 ## Week 3 (~02/02)
 
-|   No. | Problem           | Tag | Status | Link                                  |
-| ----: | :---------------- | :-: | :----: | ------------------------------------- |
-| 22941 | RPG 마스터 오명진 |     |        | https://www.acmicpc.net/problem/22941 |
+|   No. | Problem           | Tag  | Status | Link                                  |
+| ----: | :---------------- | :--: | :----: | ------------------------------------- |
+| 22941 | RPG 마스터 오명진 | 수학 |   ✅   | https://www.acmicpc.net/problem/22941 |
+
+---
+
+## Week 4 (~02/09)
+
+|   No. | Problem              | Tag | Status | Link                                  |
+| ----: | :------------------- | :-: | :----: | ------------------------------------- |
+| 29160 | 나의 FIFA 팀 가치는? |     |        | https://www.acmicpc.net/problem/29160 |
+|  1260 | DFS와 BFS            |     |        | https://www.acmicpc.net/problem/1260  |

@@ -19,8 +19,8 @@ for (int i = 2; i * i <= N; i++) {
 ---
 
 - **BFS / DFS**
-  BFS : Queue (front)
-  DFS : Stack (top)
+  - BFS : Queue (front)
+  - DFS : Stack (top)
 
 ```cpp
     stack<int> st;

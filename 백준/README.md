@@ -44,7 +44,16 @@ for (int i = 2; i * i <= N; i++) {
 
 ## Week 4 (~02/09)
 
-|   No. | Problem              | Tag | Status | Link                                  |
-| ----: | :------------------- | :-: | :----: | ------------------------------------- |
-| 29160 | 나의 FIFA 팀 가치는? |     |        | https://www.acmicpc.net/problem/29160 |
-|  1260 | DFS와 BFS            |     |        | https://www.acmicpc.net/problem/1260  |
+|   No. | Problem              |     Tag     | Status | Link                                  |
+| ----: | :------------------- | :---------: | :----: | ------------------------------------- |
+| 29160 | 나의 FIFA 팀 가치는? | 우선순위 큐 |   ✅   | https://www.acmicpc.net/problem/29160 |
+|  1260 | DFS와 BFS            |  DFS / BFS  |   ✅   | https://www.acmicpc.net/problem/1260  |
+
+## Week 5 (~02/24)
+
+|   No. | Problem          | Tag | Status | Link                                  |
+| ----: | :--------------- | :-: | :----: | ------------------------------------- |
+|  1012 | 유기농 배추      |     |        | https://www.acmicpc.net/problem/1012  |
+|  2667 | 단지 번호 붙이기 |     |        | https://www.acmicpc.net/problem/2667  |
+|  2468 | 안전 영역        |     |        | https://www.acmicpc.net/problem/2468  |
+| 11724 | 연결 요소의 개수 |     |        | https://www.acmicpc.net/problem/11724 |

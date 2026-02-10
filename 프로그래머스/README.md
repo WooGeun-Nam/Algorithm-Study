@@ -31,8 +31,14 @@
 
 ## Week 4 (~02/09)
 
-| Problem           | Tag | Status | Link                                                            |
-| :---------------- | :-: | :----: | --------------------------------------------------------------- |
-| 신규 아이디 추천  |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/72410 |
-| 게임 맵 최단 거리 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/1844  |
-| 타겟 넘버         |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43165 |
+| Problem           |  Tag   | Status | Link                                                            |
+| :---------------- | :----: | :----: | --------------------------------------------------------------- |
+| 신규 아이디 추천  | 문자열 |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/72410 |
+| 게임 맵 최단 거리 |  BFS   |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/1844  |
+| 타겟 넘버         |  DFS   |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/43165 |
+
+## Week 5 (~02/24)
+
+| Problem  | Tag | Status | Link                                                            |
+| :------- | :-: | :----: | --------------------------------------------------------------- |
+| 여행경로 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43164 |

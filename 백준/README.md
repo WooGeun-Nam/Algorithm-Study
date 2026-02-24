@@ -37,9 +37,16 @@
 
 ## Week 5 (~02/24)
 
-|   No. | Problem          | Tag | Status | Link                                  |
-| ----: | :--------------- | :-: | :----: | ------------------------------------- |
-|  1012 | 유기농 배추      |     |        | https://www.acmicpc.net/problem/1012  |
-|  2667 | 단지 번호 붙이기 |     |        | https://www.acmicpc.net/problem/2667  |
-|  2468 | 안전 영역        |     |        | https://www.acmicpc.net/problem/2468  |
-| 11724 | 연결 요소의 개수 |     |        | https://www.acmicpc.net/problem/11724 |
+|   No. | Problem          |    Tag    | Status | Link                                  |
+| ----: | :--------------- | :-------: | :----: | ------------------------------------- |
+|  1012 | 유기농 배추      | DFS / BFS |   ✅   | https://www.acmicpc.net/problem/1012  |
+|  2667 | 단지 번호 붙이기 | DFS / BFS |   ✅   | https://www.acmicpc.net/problem/2667  |
+|  2468 | 안전 영역        | DFS / BFS |   ✅   | https://www.acmicpc.net/problem/2468  |
+| 11724 | 연결 요소의 개수 | DFS / BFS |   ✅   | https://www.acmicpc.net/problem/11724 |
+
+## Week 6 (~03/03)
+
+|  No. | Problem   | Tag | Status | Link                                 |
+| ---: | :-------- | :-: | :----: | ------------------------------------ |
+| 1010 | 다리 놓기 |     |        | https://www.acmicpc.net/problem/1010 |
+| 2491 | 수열      |     |        | https://www.acmicpc.net/problem/2491 |

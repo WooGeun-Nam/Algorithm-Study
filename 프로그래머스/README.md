@@ -41,4 +41,12 @@
 
 | Problem  | Tag | Status | Link                                                            |
 | :------- | :-: | :----: | --------------------------------------------------------------- |
-| 여행경로 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43164 |
+| 여행경로 | DFS |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/43164 |
+
+## Week 6 (~03/03)
+
+| Problem          | Tag | Status | Link                                                            |
+| :--------------- | :-: | :----: | --------------------------------------------------------------- |
+| 네트워크         |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43162 |
+| 단어변환         |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43163 |
+| 다단계 칫솔 판매 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/77486 |

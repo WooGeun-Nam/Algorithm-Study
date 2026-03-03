@@ -48,5 +48,12 @@
 
 |  No. | Problem   | Tag | Status | Link                                 |
 | ---: | :-------- | :-: | :----: | ------------------------------------ |
-| 1010 | 다리 놓기 |     |        | https://www.acmicpc.net/problem/1010 |
-| 2491 | 수열      |     |        | https://www.acmicpc.net/problem/2491 |
+| 1010 | 다리 놓기 | DP  |   ✅   | https://www.acmicpc.net/problem/1010 |
+| 2491 | 수열      | DP  |   ✅   | https://www.acmicpc.net/problem/2491 |
+
+## Week 7 (~03/10)
+
+|  No. | Problem       | Tag | Status | Link                                 |
+| ---: | :------------ | :-: | :----: | ------------------------------------ |
+| 1463 | 1로 만들기    |     |        | https://www.acmicpc.net/problem/1463 |
+| 1003 | 피보나치 함수 |     |        | https://www.acmicpc.net/problem/1003 |

@@ -45,8 +45,16 @@
 
 ## Week 6 (~03/03)
 
+| Problem          |    Tag    | Status | Link                                                            |
+| :--------------- | :-------: | :----: | --------------------------------------------------------------- |
+| 네트워크         | DFS / BFS |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/43162 |
+| 단어변환         |    BFS    |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/43163 |
+| 다단계 칫솔 판매 |    DFS    |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/77486 |
+
+## Week 7 (~03/10)
+
 | Problem          | Tag | Status | Link                                                            |
 | :--------------- | :-: | :----: | --------------------------------------------------------------- |
-| 네트워크         |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43162 |
-| 단어변환         |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43163 |
-| 다단계 칫솔 판매 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/77486 |
+| 아이템 줍기      |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/87694 |
+| 퍼즐 조각 채우기 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/84021 |
+| 전화번호 목록    |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/42577 |

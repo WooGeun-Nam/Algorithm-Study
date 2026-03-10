@@ -53,8 +53,16 @@
 
 ## Week 7 (~03/10)
 
-| Problem          | Tag | Status | Link                                                            |
-| :--------------- | :-: | :----: | --------------------------------------------------------------- |
-| 아이템 줍기      |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/87694 |
-| 퍼즐 조각 채우기 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/84021 |
-| 전화번호 목록    |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/42577 |
+| Problem          |    Tag    | Status | Link                                                            |
+| :--------------- | :-------: | :----: | --------------------------------------------------------------- |
+| 아이템 줍기      |    BFS    |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/87694 |
+| 퍼즐 조각 채우기 | DFS / BFS |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/84021 |
+| 전화번호 목록    |   해싱    |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/42577 |
+
+## Week 8 (~03/24)
+
+| Problem              | Tag | Status | Link                                                            |
+| :------------------- | :-: | :----: | --------------------------------------------------------------- |
+| 카펫                 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/42842 |
+| 피로도               |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/87946 |
+| 전력망을 둘로 나누기 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/86971 |

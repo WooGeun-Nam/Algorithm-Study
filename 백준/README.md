@@ -55,5 +55,13 @@
 
 |  No. | Problem       | Tag | Status | Link                                 |
 | ---: | :------------ | :-: | :----: | ------------------------------------ |
-| 1463 | 1로 만들기    |     |        | https://www.acmicpc.net/problem/1463 |
-| 1003 | 피보나치 함수 |     |        | https://www.acmicpc.net/problem/1003 |
+| 1463 | 1로 만들기    | DP  |   ✅   | https://www.acmicpc.net/problem/1463 |
+| 1003 | 피보나치 함수 | DP  |   ✅   | https://www.acmicpc.net/problem/1003 |
+
+## Week 8 (~03/24)
+
+|   No. | Problem      | Tag | Status | Link                                  |
+| ----: | :----------- | :-: | :----: | ------------------------------------- |
+|  9095 | 1,2,3 더하기 |     |        | https://www.acmicpc.net/problem/9095  |
+| 11726 | 2xN 타일링   |     |        | https://www.acmicpc.net/problem/11726 |
+| 11727 | 2xN 타일링2  |     |        | https://www.acmicpc.net/problem/11727 |

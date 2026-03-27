@@ -83,11 +83,20 @@
 
 ## Week 8 (~03/27)
 
-| Judge |   No. | Problem              | Tag | Status | Link                                                            |
-| :---: | ----: | :------------------- | :-: | :----: | --------------------------------------------------------------- |
-|   B   |  9095 | 1,2,3 더하기         |     |        | https://www.acmicpc.net/problem/9095                            |
-|   B   | 11726 | 2xN 타일링           |     |        | https://www.acmicpc.net/problem/11726                           |
-|   B   | 11727 | 2xN 타일링2          |     |        | https://www.acmicpc.net/problem/11727                           |
-|   P   | 42842 | 카펫                 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/42842 |
-|   P   | 87946 | 피로도               |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/87946 |
-|   P   | 86971 | 전력망을 둘로 나누기 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/86971 |
+| Judge |   No. | Problem              |      Tag       | Status | Link                                                            |
+| :---: | ----: | :------------------- | :------------: | :----: | --------------------------------------------------------------- |
+|   B   |  9095 | 1,2,3 더하기         |       DP       |   ✅   | https://www.acmicpc.net/problem/9095                            |
+|   B   | 11726 | 2xN 타일링           |       DP       |   ✅   | https://www.acmicpc.net/problem/11726                           |
+|   B   | 11727 | 2xN 타일링2          |       DP       |   ✅   | https://www.acmicpc.net/problem/11727                           |
+|   P   | 42842 | 카펫                 |      완탐      |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/42842 |
+|   P   | 87946 | 피로도               |   완탐 / DFS   |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/87946 |
+|   P   | 86971 | 전력망을 둘로 나누기 | 완탐 / DFS,BFS |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/86971 |
+
+## Week 9 (~04/06)
+
+| Judge |   No. | Problem     | Tag | Status | Link                                                            |
+| :---: | ----: | :---------- | :-: | :----: | --------------------------------------------------------------- |
+|   B   |  7576 | 토마토      |     |        | https://www.acmicpc.net/problem/7576                            |
+|   B   | 14502 | 연구소      |     |        | https://www.acmicpc.net/problem/14502                           |
+|   P   | 43105 | 정수 삼각형 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43105 |
+|   P   | 42898 | 등굣길      |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/42898 |

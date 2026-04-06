@@ -10,7 +10,7 @@
 ---
 
 <details>
-<summary>## Week 1 (~01/19)</summary>
+<summary>Week 1 (~01/19)</summary>
 
 | Judge |    No. | Problem               |      Tag      | Status | Link                                                             |
 | :---: | -----: | :-------------------- | :-----------: | :----: | ---------------------------------------------------------------- |
@@ -21,9 +21,8 @@
 
 </details>
 
----
-
-## Week 2 (~01/26)
+<details>
+<summary>Week 2 (~01/26)</summary>
 
 | Judge |    No. | Problem               |    Tag    | Status | Link                                                             |
 | :---: | -----: | :-------------------- | :-------: | :----: | ---------------------------------------------------------------- |
@@ -33,18 +32,20 @@
 |   P   | 340213 | 동영상 재생기         |   구현    |   ✅   | http://school.programmers.co.kr/learn/courses/30/lessons/340213  |
 |   P   |  42839 | 소수 찾기 (완전 탐색) | 완전탐색  |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/42839  |
 
----
+</details>
 
-## Week 3 (~02/02)
+<details>
+<summary>Week 3 (~02/02)</summary>
 
 | Judge |   No. | Problem           | Tag  | Status | Link                                                            |
 | :---: | ----: | :---------------- | :--: | :----: | --------------------------------------------------------------- |
 |   B   | 22941 | RPG 마스터 오명진 | 수학 |   ✅   | https://www.acmicpc.net/problem/22941                           |
 |   P   | 67256 | 키패드 누르기     | 구현 |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/67256 |
 
----
+</details>
 
-## Week 4 (~02/09)
+<details>
+<summary>Week 4 (~02/09)</summary>
 
 | Judge |   No. | Problem              |     Tag     | Status | Link                                                            |
 | :---: | ----: | :------------------- | :---------: | :----: | --------------------------------------------------------------- |
@@ -54,7 +55,10 @@
 |   P   |  1844 | 게임 맵 최단 거리    |     BFS     |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/1844  |
 |   P   | 43165 | 타겟 넘버            |     DFS     |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/43165 |
 
-## Week 5 (~02/24)
+</details>
+
+<details>
+<summary>Week 5 (~02/24)</summary>
 
 | Judge |   No. | Problem          |    Tag    | Status | Link                                                            |
 | :---: | ----: | :--------------- | :-------: | :----: | --------------------------------------------------------------- |
@@ -64,7 +68,10 @@
 |   B   | 11724 | 연결 요소의 개수 | DFS / BFS |   ✅   | https://www.acmicpc.net/problem/11724                           |
 |   P   | 43164 | 여행경로         |    DFS    |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/43164 |
 
-## Week 6 (~03/03)
+</details>
+
+<details>
+<summary>Week 6 (~03/03)</summary>
 
 | Judge |   No. | Problem          |    Tag    | Status | Link                                                            |
 | :---: | ----: | :--------------- | :-------: | :----: | --------------------------------------------------------------- |
@@ -74,7 +81,10 @@
 |   P   | 43163 | 단어변환         |    BFS    |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/43163 |
 |   P   | 77486 | 다단계 칫솔 판매 |    DFS    |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/77486 |
 
-## Week 7 (~03/10)
+</details>
+
+<details>
+<summary>Week 7 (~03/10)</summary>
 
 | Judge |   No. | Problem          |    Tag    | Status | Link                                                            |
 | :---: | ----: | :--------------- | :-------: | :----: | --------------------------------------------------------------- |
@@ -84,7 +94,10 @@
 |   P   | 84021 | 퍼즐 조각 채우기 | DFS / BFS |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/84021 |
 |   P   | 42577 | 전화번호 목록    |   해싱    |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/42577 |
 
-## Week 8 (~03/27)
+</details>
+
+<details>
+<summary>Week 8 (~03/27)</summary>
 
 | Judge |   No. | Problem              |      Tag       | Status | Link                                                            |
 | :---: | ----: | :------------------- | :------------: | :----: | --------------------------------------------------------------- |
@@ -95,7 +108,10 @@
 |   P   | 87946 | 피로도               |   완탐 / DFS   |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/87946 |
 |   P   | 86971 | 전력망을 둘로 나누기 | 완탐 / DFS,BFS |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/86971 |
 
-## Week 9 (~04/06)
+</details>
+
+<details>
+<summary>Week 9 (~04/06)</summary>
 
 | Judge |   No. | Problem     | Tag | Status | Link                                                            |
 | :---: | ----: | :---------- | :-: | :----: | --------------------------------------------------------------- |
@@ -103,6 +119,8 @@
 |   B   | 14502 | 연구소      |     |        | https://www.acmicpc.net/problem/14502                           |
 |   P   | 43105 | 정수 삼각형 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43105 |
 |   P   | 42898 | 등굣길      |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/42898 |
+
+</details>
 
 ## Week 10 (~05/05)
 

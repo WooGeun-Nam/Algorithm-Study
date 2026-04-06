@@ -100,3 +100,12 @@
 |   B   | 14502 | 연구소      |     |        | https://www.acmicpc.net/problem/14502                           |
 |   P   | 43105 | 정수 삼각형 |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/43105 |
 |   P   | 42898 | 등굣길      |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/42898 |
+
+## Week 10 (~05/05)
+
+| Judge |   No. | Problem     | Tag | Status | Link                                                            |
+| :---: | ----: | :---------- | :-: | :----: | --------------------------------------------------------------- |
+|   B   | 12865 | 평범한 배낭 |     |        | https://www.acmicpc.net/problem/12865                           |
+|   B   |  9251 | LCS         |     |        | https://www.acmicpc.net/problem/9251                            |
+|   B   |  2293 | 동전 1      |     |        | https://www.acmicpc.net/problem/2293                            |
+|   P   | 42895 | N으로 표현  |     |        | https://school.programmers.co.kr/learn/courses/30/lessons/42895 |

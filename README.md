@@ -9,6 +9,7 @@
 
 ---
 
+<details>
 ## Week 1 (~01/19)
 
 | Judge |    No. | Problem               |      Tag      | Status | Link                                                             |
@@ -17,6 +18,8 @@
 |   B   |   2755 | 이번학기 평점은 몇점? |     구현      |   ✅   | https://www.acmicpc.net/problem/2755                             |
 |   P   | 135808 | 과일장수              | 그리디 / 정렬 |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/135808 |
 |   P   | 250137 | 붕대감기              |     구현      |   ✅   | https://school.programmers.co.kr/learn/courses/30/lessons/250137 |
+
+</details>
 
 ---
 
